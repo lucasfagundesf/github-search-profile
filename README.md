@@ -111,7 +111,7 @@ Este projeto está licenciado sob a Licença MIT
 
 Lucas Fagundes Franco - [lucas_fagundesfranco@hotmail]
 
-Link do projeto: [https://github.com/seu-usuario/github-profile-search](https://github.com/seu-usuario/github-profile-search)
+Link do projeto: [https://lucasfagundesf.github.io/github-search-profile](https://lucasfagundesf.github.io/github-search-profile)
 
 ## 🙏 Agradecimentos
 
